@@ -345,7 +345,9 @@ const CanvasDecisoresPublico: FC = () => {
                 Mapa Descriptivo del Cliente – Decisores del Sector Público
               </h1>
               <p className="text-xs/5 text-white/60">
-                Canvas interactivo para sesiones de direccionamiento estratégico
+                Stakeholders: Ministros y Viceministros de TI/Innovación
+                Digital, Ministros de Hacienda/Finanzas, Direcciones de Gobierno
+                Digital/Transformación
               </p>
             </div>
           </div>
@@ -494,7 +496,7 @@ const CanvasDecisoresPublico: FC = () => {
       <div className="pb-10">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <p className="text-xs text-white/40">
-            Canvas · Decisores Sector Público · © {new Date().getFullYear()}
+            Canvas · Decisores del Sector Público · © {new Date().getFullYear()}
           </p>
         </div>
       </div>
